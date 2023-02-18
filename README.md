@@ -10,3 +10,4 @@ Watch tutorial on YouTube.
 
 1. Open Index.html in your browser
 2. Have fun
+3. Learn new
